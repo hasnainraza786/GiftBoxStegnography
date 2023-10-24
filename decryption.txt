@@ -1,0 +1,20 @@
+Bitmap img = new Bitmap(textBox1.Text);
+            string msg = "";
+
+            for (int i = 0; i < img.Width; i++)
+            {
+                for (int j = 0; j < img.Height; j++)
+                {
+                    Color Pixel = img.GetPixel(i, j);
+                    if (i < 1 && j < 16)
+                    {
+                        int val = Pixel.B;
+                        char c = Convert.ToChar(val);
+                        string letter = Convert.ToString(c);
+                        Console.WriteLine("Letter = ( " + letter + " ) = " + val);
+
+                        msg = msg + letter;
+                    }
+                }
+            }
+            textBox2.Text = msg;

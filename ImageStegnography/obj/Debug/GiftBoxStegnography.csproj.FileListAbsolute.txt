@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\bin\Debug\ImageStegnography.exe.config
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\bin\Debug\ImageStegnography.exe
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\bin\Debug\ImageStegnography.pdb
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\GiftBoxStegnography.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\ImageStegnography.Form1.resources
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\ImageStegnography.Properties.Resources.resources
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\GiftBoxStegnography.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\GiftBoxStegnography.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\ImageStegnography.exe
+C:\Users\hp\Desktop\ImageStegnography - Copy\ImageStegnography\obj\Debug\ImageStegnography.pdb
